@@ -1,0 +1,7 @@
+name, configphp, "Config PHP Attempt!"
+#history=false
+
+dir=/config.php
+
+description="Config PHP Attempt!"
+risk_level=1

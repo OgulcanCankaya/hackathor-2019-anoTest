@@ -1,0 +1,7 @@
+name, banned_email, "Attempt from banned email!"
+#history=false
+
+header=header_from?.*@bilmemne.com
+
+description="Attempt from banned email!"
+risk_level=3

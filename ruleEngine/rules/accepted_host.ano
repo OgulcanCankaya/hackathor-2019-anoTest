@@ -1,0 +1,7 @@
+name, non_accepted_host, "Non-Accepted Host"
+#history=false
+
+header=header_host!?.*batuberk.com
+
+description="Non-Accepted Host"
+risk_level=5

@@ -1,0 +1,7 @@
+name, ip_limit, "Over IP Limit"
+#history=false
+
+anomaly=baseline_iplimit?50
+
+description="Over IP Limit"
+risk_level=3

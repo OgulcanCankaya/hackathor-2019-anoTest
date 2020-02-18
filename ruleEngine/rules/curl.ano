@@ -1,0 +1,8 @@
+name, curl, "Too Much Curl Attempt"
+#history=true
+
+normal=baseline_useragent
+anomaly=baseline_useragent?curl:15
+
+description="Too Much Curl Attempt!"
+risk_level=2

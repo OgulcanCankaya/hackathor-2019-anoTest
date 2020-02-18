@@ -1,0 +1,8 @@
+name, postman, "Postman Attempt"
+#history=false
+
+header=header_host?www.egeakat.com
+header=header_useragent?postman
+
+description="Postman Attempt!"
+risk_level=1

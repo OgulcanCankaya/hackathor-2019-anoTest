@@ -1,0 +1,7 @@
+name, htaccess, "htaccess Attempt!"
+#history=false
+
+dir=/.htaccess
+
+description="htaccess Attempt!"
+risk_level=3

@@ -1,0 +1,8 @@
+name, too_much_traffic, "Too Much Traffic"
+#history=true
+
+normal=baseline_traffic
+anomaly=baseline_traffic?80
+
+description="There is too much traffic!"
+risk_level=4
